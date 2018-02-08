@@ -17,3 +17,8 @@ end
 def using_unshift
 
 end
+
+def shift_with_args
+
+end
+
