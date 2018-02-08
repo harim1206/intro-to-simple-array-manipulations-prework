@@ -56,6 +56,7 @@ def using_delete(arr, str)
 
 end
 
-def using_delete_at
+def using_delete_at(arr,int)
+
 
 end
